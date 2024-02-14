@@ -50,7 +50,7 @@ RDEPEND="
 
 BDEPEND="
 	dev-util/ctags
-	dev-util/meson
+	dev-build/meson
 	virtual/pkgconfig
 	x11-base/xorg-server
 "
