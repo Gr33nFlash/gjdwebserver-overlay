@@ -35,7 +35,7 @@ DEPEND="
 RDEPEND="${DEPEND}"
 BDEPEND="
 		vala? ( $(vala_depend) )
-		dev-util/meson
+		dev-build/meson
 		dev-libs/gobject-introspection
 		dev-util/wayland-scanner
 "
